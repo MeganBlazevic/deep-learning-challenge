@@ -35,6 +35,3 @@ Compiling, Training, and Evaluating the Model
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
 - Were you able to achieve the target model performance?
 - What steps did you take in an attempt to increase model performance?
-
-## Challenges
-Towards the end of the optimization, I hit the ceiling for the RAM spikes and the free verision of Google Colab had.  It kept starting to fail; when I was attempting my 5th trial.  I waited several hours; tried to start again, and was still unsuccessful. Hopefully, trying the next morning will allow me to run through and see if my last attempt would be successful. 

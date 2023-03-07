@@ -55,16 +55,13 @@ Keeping the NAME field in the data set
 1st Hidden Layer - 7, Relu for activation
 2nd Hidden Layer - 14, Relu for activation
 3rd Hidden Layer - 21
-*********** trainable params
+434 trainable params
 75 epochs
-Loss: 0.************
-Accuracy: *********
+Loss: 0.5416
+Accuracy: .7312
 
 ******insert graph
-
 
 ## Summary
 Overall, I was not able to obtain a 75% accuracy rating with any of the models that I was trying. I was close with 73% for many of them. Multiple layers ares still need for deep learning models
 as it allows for more accuracy with predciting our information.  As there are many classifiying elements that need to be utilized to predict, it is better to not be a super high-level input with layers. 
-
-** Keeping the name column in the data sets allows for the 75% accuracy rating to be hit. My assumption is that this is due to the shape of the data set. 
