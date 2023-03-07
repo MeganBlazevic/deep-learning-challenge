@@ -35,3 +35,6 @@ Compiling, Training, and Evaluating the Model
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
 - Were you able to achieve the target model performance?
 - What steps did you take in an attempt to increase model performance?
+
+My Outcomes
+Despite much trial and effort, I was unable to produce a model that had an accuracy rating of 75% of greater.  Each of the attempts, had minor tweeks, and when working through the intial compile and training, I had made some initial adjustment and attempts that did not have any significant changes in the outcomes of the modeling. 
